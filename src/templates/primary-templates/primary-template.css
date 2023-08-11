@@ -1,9 +1,8 @@
 :root {
-  --color-primary: #574AE2; /* Majorelle Blue */
-  --color-secondary: #1b1b1b; /* Eerie Dark */
-  --color-tertiary: #DB162F; /* Fire Engine Red*/
-  --color-accent: #95A5A6; /* Cadet Gray */
-  --color-background: #F7F7F7; /* Seasalt */
+  --color-primary: #222831;
+  --color-secondary: #393E46;
+  --color-accent : #00ADB5;
+  --color-background : #EEEEEE;
 }
 
 .template-primary {

@@ -8,8 +8,9 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
+  
   return (
-    <html lang="en">
+    <html>
       <head>
         <title>Weins App</title>
       </head>

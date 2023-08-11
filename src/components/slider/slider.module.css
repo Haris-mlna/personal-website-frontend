@@ -33,7 +33,7 @@
 }
 
 .button_active {
-  border-top: 2px solid white;
+  border-top: 3px solid var(--color-accent);
 }
 
 .button:hover {
